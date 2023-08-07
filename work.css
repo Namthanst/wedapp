@@ -5,6 +5,11 @@ body{
 p{
     text-align: center;
     font-weight: bold;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: #a70455;
+    border-radius: 10px;
+    padding: 10px;
 }
 .button {
     border: none;
@@ -21,4 +26,15 @@ p{
 h1{
     border: 3px solid hotpink;
     background-color: lavenderblush;
+}
+h3.hw{
+    color: rgb(121, 11, 190);
+    background-color: bisque;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 5px;
+    padding: 10px;
+}
+.nm p{
+    color: blueviolet;
 }
